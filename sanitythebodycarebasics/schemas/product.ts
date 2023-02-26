@@ -1,4 +1,4 @@
-import { BsFlower3 } from "react-icons/bs";
+
 
 
 
@@ -7,7 +7,7 @@ export default {
   name: "products",
   title: "Product",
   type: "document",
-  icon: BsFlower3,
+  
   fields: [
     {
       name: "title",
